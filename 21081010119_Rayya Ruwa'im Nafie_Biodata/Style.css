@@ -1,0 +1,22 @@
+img{border-radius: 100%;}
+.center {margin-left: auto;margin-right: auto;}
+table {border-spacing: 0; text-align: center; border: 1px solid black;border-collapse: collapse;}
+table td {width: 300px;}
+table h2 {background-color: rgb(160, 235, 210);}
+.Blue {background-color: #2a78ab; vertical-align: top;}
+.White {width: 300px; list-style-type: none;}
+.imgedu {display: grid;align-items: center;justify-content: center; list-style-type: none; text-align: center;}
+.imgcertif {display:"grid"}
+.info ul{list-style-type: none;text-align: left;padding-left: 10px;}
+.info td{padding-left: 30px;}
+.intro td{padding-left: 40;}
+.intro td b{color: rgb(255, 255, 255);text-align: left;}
+.intro p{text-align: left;padding-left: 10px;}
+.intro td {padding-left: 30px;}
+.Skill h2{text-align:center ;}
+.Skill h3{text-align:center ;color: white;}
+.Skill ul{padding-left: 40px;text-align: left;color: white;}
+.Skill td{padding-left: 30px;text-align: left;}
+.Education ul {text-align: left;padding-left: 10px;}
+.Education td {padding-left: 30px; }
+.Education dt {color: white;text-align: left; padding-left: 30px;}
