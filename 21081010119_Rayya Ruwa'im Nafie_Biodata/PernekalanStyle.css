@@ -1,0 +1,96 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 0px;
+    padding: 10px;
+    width: 700px;
+  }
+  .grid-container > div {
+    padding: 20px ;
+  }
+  h2 {
+    background-color: rgb(160, 235, 210);
+    margin-left: 30px;
+    padding-left: 20px;
+  }
+  .item1 img {
+    border-radius: 100%;
+    margin-left: 70px; ;
+  }
+  .item1{ 
+    background-color: #2a78ab;
+    width: 300px;
+  }
+  .Information{
+    background-color: white;
+    width: 300px;
+    margin-bottom: auto;
+  }
+  .Information ul{
+    list-style-type: none;
+    text-align: left;
+    padding-left: 40px;
+  }
+  .Tittle{
+    background-color: #2a78ab;
+    color: white;
+  }
+  .Tittle b{
+    font-size: 25px;
+    text-align: left;
+    padding-left: 20px;
+  }
+  .Social {
+    overflow: hidden;
+    margin-top: 20px;
+  }
+  .Social img {
+    float: left;
+    margin-left: 40px;
+  }
+  .Social p {
+    padding-left: 40px;
+    display: block;
+    margin: 4px 0 0 0;
+    text-align: left;
+    color: white;
+  }
+  .Introduction p{
+    margin-left: 40px;
+    
+  }
+  .Skill {
+    grid-row-start: 3;
+    grid-row-end: 5;
+    top: auto;
+    background-color: #2a78ab;
+    color: white;
+    text-align: left;
+    
+  }
+  .Skill h3{
+    padding-left: 40px;
+  }
+  .Skill ul{margin-left: 25px;
+  text-align: left;}
+  .Education ul{
+    list-style-type: none;
+  }
+  .Education img{
+    float: left;
+    margin-left: 40px;
+  }
+  .Education p{
+    padding-left: 40px;
+    text-align: left;
+  }
+  .Certification img{
+    float: left;
+    margin-left: 40px;
+  }
+  .Certification p{
+    padding-left: 40px;
+    display: block;
+    margin: 4px 0 0 0;
+    text-align: left;
+  }
