@@ -23,7 +23,7 @@
           <div class="sidebar-sticky">
             <ul class="nav flex-column" style="margin-top:100px;">
                <li class="nav-item">
-                <a class="nav-link active" href="<?php echo "index.php"; ?>">Data Mahasiswa</a>
+                <a class="nav-link active" href="<?php echo "index.php"; ?>">Data Pegawai</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="<?php echo "form.php"; ?>">Tambah Data</a>
